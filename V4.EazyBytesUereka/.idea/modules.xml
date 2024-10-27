@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Accounts-Application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Accounts-Application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cards.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cards.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Loans.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Loans.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/V4.EazyBytesUereka.iml" filepath="$PROJECT_DIR$/.idea/V4.EazyBytesUereka.iml" />
+    </modules>
+  </component>
+</project>
